@@ -1,0 +1,6 @@
+{
+  "name": "iTechSmart - ProofLink Compliance Platform",
+  "description": "Enterprise-grade observability and audit platform for AI systems. Cryptographically verify AI decision chains for NIST, EU AI Act, and CMMC compliance with ProofLink SHA-256 receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
